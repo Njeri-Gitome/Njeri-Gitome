@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Grace-Gitome
-- 👀 I’m interested in Software Development and UI/UX Design
-- 🌱 I’m currently learning Mobile Web Software Development
+- 👀 I’m interested
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
