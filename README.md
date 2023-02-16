@@ -1,5 +1,1 @@
-I have an education background in Bsc. Electronic and Computer Engineering with 1.5 years experience in Technical Engineering Pre-sales of Telecommunications equipment and 2 years Experience in Business Development.
-I am currently transitioning to Data Science as a career line with an aim of providing business solutions in the health Domain.
-
-
-
+I hold a Bachelor's degree in Electronic and Computer Engineering and have 1.5 years of experience in Technical Engineering Pre-sales for Telecommunications equipment. Additionally, I have 2 years of experience in Business Development. However, I am currently in the process of transitioning to a career in Data Science, with a focus on providing business solutions in the healthcare domain. I am excited to utilize my technical expertise and business acumen to help organizations improve their operations and make a positive impact in the healthcare industry.
