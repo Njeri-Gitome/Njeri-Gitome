@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Grace-Gitome, an Electronics and Computer Engineer.
-- 👀 I’m interested solving solutions using data.
-- 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on data for good projects.
-- 📫 How to reach me: gitomegracie@gmail.com
+I have an education background in Bsc. Electronic and Computer Engineering. I have 1.5 years experience in Technical Engineering Pre-sales of Telecommunications equipment, 2 years Experience in Business Development.
+I am currently transitioning to Data Science as a career line with an aim of providing business solutions in the health Domain.
+
 
 
