@@ -3,3 +3,4 @@ I hold a Bachelor's degree in Electronic and Computer Engineering and have 1.5 y
 I am currently in the process of transitioning to a career in Data Science, with a focus on providing business solutions within the Sustainable Development Goals. I am excited to utilize my technical expertise and business acumen to help organizations improve their operations.
 
 (https://github-readme-stats.vercel.app/api?username=Grace-Gitome)
+(https://github-readme-stats.vercel.app/api?username=Grace-Gitome)](https://github.com/Grace-Gitome/github-readme-stats)
