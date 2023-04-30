@@ -4,6 +4,6 @@ I am currently in the process of transitioning to a career in Data Science, with
 
 ## Technical Skills
 **Programming Languages:** SQL, Python<br>
-**Libraries/FrameWorks:**  Sklearn<br>
+**Libraries/FrameWorks:**  Scikit-learn, NumPy,Pandas, Matplotlib, Tensor Flow<br>
 **Tools/Platforms:**       Docker<br>
 **Databases:**             MySQL and MongoDB<br>
