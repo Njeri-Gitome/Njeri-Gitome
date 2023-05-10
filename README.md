@@ -9,4 +9,5 @@ I am currently in the process of transitioning to a career in Data Science, with
 **Databases:**             MySQL and MongoDB<br>
 
 ## GitHub Stats
-[![Grace Gitome's GitHub stats](https://github-readme-stats.vercel.app/api?username=GraceGitome)](https://github.com/Grace-Gitome/github-readme-stats)
+[![Grace-Gitome's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grace-Gitome)](https://github.com/Grace-Gitome/github-readme-stats)
+
