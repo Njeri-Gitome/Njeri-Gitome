@@ -7,3 +7,6 @@ I am currently in the process of transitioning to a career in Data Science, with
 **Libraries/FrameWorks:**  Scikit-learn, NumPy,Pandas, Matplotlib, Tensor Flow<br>
 **Tools/Platforms:**       Docker<br>
 **Databases:**             MySQL and MongoDB<br>
+
+## GitHub Stats
+[![Grace Gitome's GitHub stats](https://github-readme-stats.vercel.app/api?username=gracegitome)](https://github.com/gracegitome/github-readme-stats)
