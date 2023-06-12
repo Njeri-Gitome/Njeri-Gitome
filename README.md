@@ -1,7 +1,7 @@
 ## About 
 I am an ardent data nerd. I enjoy uncovering meaningful insights and driving informed decision making through rigorous and empathetic analysis.
 
-I have previously have enjoyed working in the Telecommunication sector as a Technical Pre-sales Engineer for a period of 1.5 years. It was a rewarding experience whereby in addition to the technical sales position I engaged in Business Development, Project management and Telecommunication Network Planning. 
+I have previously have enjoyed working in the Telecommunication sector as a Technical Pre-sales Engineer for a period of 1.5 years. It was a rewarding experience whereby in addition to the technical sales position I engaged in Business Development, Project Management and Telecommunication Network Planning. 
 
 Additionally, I have to work as a Market Researcher at a Marketing Agency. Whereby my forte in Data Analysis was sharpened, I also got to participate in Business Strategy and Planning, and Business Proposal Writing.
 
