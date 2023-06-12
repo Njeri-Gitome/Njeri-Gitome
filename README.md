@@ -1,6 +1,18 @@
 ## About 
-I hold a Bachelor's degree in Electronic and Computer Engineering and have 1.5 years of experience in Technical Engineering Pre-sales for Telecommunications equipment. Additionally, I have 2 years of experience in Business Development.
-I am currently in the process of transitioning to a career in Data Science, with a focus on providing business solutions within the Sustainable Development Goals. I am excited to utilize my technical expertise and business acumen to help organizations improve their operations.
+I am an ardent data nerd. I enjoy uncovering meaningful insights and driving informed decision making through rigorous and empathetic analysis.
+
+I have previously have enjoyed working in the Telecommunication sector as a Technical Pre-sales Engineer for a period of 1.5 years. It was a rewarding experience whereby in addition to the technical sales position I engaged in Business Development, Project management and Telecommunication Network Planning. 
+
+Additionally, I have to work as a Market Researcher at a Marketing Agency. Whereby my forte in Data Analysis was sharpened, I also got to participate in Business Strategy and Planning, and Business Proposal Writing.
+
+My personal and professional experiences have taught me the following about myself:
+I can align, lead and grow a top-notch Research team:
+ - I love to win, but helping my team win gives me greater joy.
+ - I tell compelling stories especially when using visual aids.
+
+I educate, refine and drive myself to be a better person especially in the business ecosystem and passionately contribute through my technical and tech skills. 
+
+I am in the process of switching to a career in Data Science, with a focus on providing business solutions within the Sustainable Development Goals. I am excited to utilize my technical know-how and business acumen to improve firms' operations.
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
