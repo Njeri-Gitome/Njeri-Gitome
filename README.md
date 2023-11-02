@@ -10,7 +10,7 @@ I can align, lead and grow a top-notch Research team:
  - I love to win, but helping my team win gives me greater joy.
  - I tell compelling stories especially when using visual aids.
 
-I educate, refine and drive myself to be a better person especially in the business ecosystem and passionately contribute through my technical and tech skills. 
+I educate, refine and drive myself to be a better person especially in the business ecosystem and passionately contribute through my soft and technical skills. 
 
 I am in the process of switching to a career in Data Science, with a focus on providing business solutions within the Sustainable Development Goals. I am excited to utilize my technical know-how and business acumen to improve firms' operations.
 
