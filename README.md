@@ -38,10 +38,10 @@ I am in the process of switching to a career in Data Science, with a focus on pr
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grace-Gitome&layout=donut)](https://github.com/Grace-Gitome/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Njeri-Gitome&layout=donut)](https://github.com/Njeri-Gitome/github-readme-stats)
 
 
 ## GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Grace-Gitome&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Grace-Gitome/github-readme-stats#gh-light-mode-only)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Njeri-Gitome&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Njeri-Gitome/github-readme-stats#gh-light-mode-only)
 
 
