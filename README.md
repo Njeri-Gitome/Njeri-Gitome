@@ -1,18 +1,6 @@
 ## About 
-I am an ardent data nerd. I enjoy uncovering meaningful insights and driving informed decision making through rigorous and empathetic analysis.
-
-I have previously have enjoyed working in the Telecommunication sector as a Technical Pre-sales Engineer for a period of 1.5 years. It was a rewarding experience whereby in addition to the technical sales position I engaged in Business Development, Project Management and Telecommunication Network Planning. 
-
-Additionally, I have to work as a Market Researcher at a Marketing Agency. Whereby my forte in Data Analysis was sharpened, I also got to participate in Business Strategy and Planning, and Business Proposal Writing.
-
-My personal and professional experiences have taught me the following about myself:
-I can align, lead and grow a top-notch Research team:
- - I love to win, but helping my team win gives me greater joy.
- - I tell compelling stories especially when using visual aids.
-
-I educate, refine and drive myself to be a better person especially in the business ecosystem and passionately contribute through my soft and technical skills. 
-
-I am in the process of switching to a career in Data Science, with a focus on providing business solutions within the Sustainable Development Goals. I am excited to utilize my technical know-how and business acumen to improve firms' operations.
+I am a dynamic and highly motivated professional with a strong background in Technical Writing and Data Analysis. I aim to create impact in the business sector through effective data analysis that is founded on comprehensive research.
+I enjoy translating complex concepts and data into clear, engaging and compelling analytics suitable for decision making. I blend my engineering and interpersonal skills to solve problems and help organizations achieve their strategic goals through Data Analytics and Technical Writing.
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
