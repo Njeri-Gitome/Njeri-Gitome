@@ -1,5 +1,5 @@
 ## About 
-I am a dynamic and highly motivated professional with a strong background in Technical Writing and Data Analysis. I aim to create impact in the business sector through effective data analysis that is founded on comprehensive research.
+I am a dynamic and highly motivated professional with a strong background in Technical Writing and Data Analysis. I aim to create impact in the business sector through effective data analysis that is founded on comprehensive research.<br>
 I enjoy translating complex concepts and data into clear, engaging and compelling analytics suitable for decision making. I blend my engineering and interpersonal skills to solve problems and help organizations achieve their strategic goals through Data Analytics and Technical Writing.
 
 ## Tech Stack
