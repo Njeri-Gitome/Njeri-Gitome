@@ -2,6 +2,14 @@
 I am a dynamic and highly motivated professional with a strong background in Technical Writing and Data Analysis. I aim to create impact in the business sector through effective data analysis that is founded on comprehensive research.<br>
 I enjoy translating complex concepts and data into clear, engaging and compelling analytics suitable for decision making. I blend my engineering and interpersonal skills to solve problems and help organizations achieve their strategic goals through Data Analytics and Technical Writing.
 
+## Blogs
+![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
+![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
+## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Njeri-Gitome&layout=donut)](https://github.com/Njeri-Gitome/github-readme-stats)
+
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
@@ -20,16 +28,8 @@ I enjoy translating complex concepts and data into clear, engaging and compellin
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 
-## Blogs
-![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
-![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-
-## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Njeri-Gitome&layout=donut)](https://github.com/Njeri-Gitome/github-readme-stats)
-
-
 ## GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Njeri-Gitome&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Njeri-Gitome/github-readme-stats#gh-light-mode-only)
+
 
 
