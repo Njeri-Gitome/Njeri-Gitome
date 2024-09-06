@@ -5,6 +5,8 @@ I enjoy translating complex concepts and data into clear, engaging and compellin
 
 
 - 💬 Ask me about **Python, Data Analytics, Data Science, Machine Learning,**
+- 🤘 Certifications and Licences
+    - [Engineer Data for Predictive Modeling with BigQuery ML Skill Badge](https://www.credly.com/badges/a0b61fcb-4f42-4129-a824-abdbfcb7e69c/public_url) 
 -  👩🏻‍💻 I am currenly learning
     - Exporing Modern Data Stack (Apache Kafka,Amazon Redshift, Airflow)
     - Data modeling
